@@ -112,7 +112,7 @@ public class AccountDetails {
         System.out.print("Enter account type : ");
         acType = s.nextLine();
         System.out.println("\n Enter balance is : " + totalBal);
-        System.out.println("Thanks foe visit " + bankName);
+        System.out.println("Thanks for visit " + bankName);
     }
     public static void main(String[] str){
         AccountDetails acd = new AccountDetails();
